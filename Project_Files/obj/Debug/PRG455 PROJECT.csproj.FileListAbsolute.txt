@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\bin\Debug\PRG455 PROJECT.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.FormEvents.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.FormCustInfo.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455_PROJECT.FormReceipt.resources
+D:\ECT Semester 4 & 3\PRG455\PROJECT\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.exe
+D:\ECT Semester 4 & 3\PRG455\PROJECT\PRG455 PROJECT\PRG455 PROJECT\obj\Debug\PRG455 PROJECT.pdb
